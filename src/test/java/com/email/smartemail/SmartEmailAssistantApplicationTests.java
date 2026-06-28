@@ -8,3 +8,6 @@ class SmartEmailAssistantApplicationTests {
 
     @Test
     void contextLoads() {
+    }
+
+}
